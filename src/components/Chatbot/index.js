@@ -203,7 +203,7 @@ class Review extends Component {
                 },
                 {
                   id: '8',
-                  message: 'Merci. Vos informations ont bien étés pris en compte ! Nous reviendrons vers vous très bientôt !',
+                  message: 'Merci. Vos informations ont bien étées prises en compte ! Nous reviendrons vers vous très bientôt !',
                   end: true,
                   },
             ]}
