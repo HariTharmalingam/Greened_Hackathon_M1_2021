@@ -32,3 +32,12 @@ yarn start
 ```
 
 >You can also open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+## Troubleshooting
+
+- The react-scripts package provided by Create React App requires a dependency:
+
+>create a .env file at the root of the project and paste : 
+```
+SKIP_PREFLIGHT_CHECK=true
+```
