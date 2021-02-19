@@ -36,3 +36,106 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: CenturyGothic_Regular;
+  src: url(./assets/fonts/CenturyGothic_Regular.ttf);
+}
+
+@font-face {
+  font-family: CenturyGothic_Bold;
+  src: url(./assets/fonts/CenturyGothic_Bold.ttf);
+}
+
+.home {
+  font-family: CenturyGothic_Regular;
+  font-size: 13px;
+  text-align: center;
+}
+
+.logo {
+  padding-right: 85px;
+}
+
+.main {
+  text-align: left;
+}
+
+.main h1 {
+  margin: 40px auto;
+}
+
+.story {
+  padding-right: 100px !important;
+}
+
+.separator {
+  text-align: center;
+  margin: 50px auto;
+}
+
+.valeurs_container, .steps_container, .contact_container {
+  text-align: center;
+  margin: 40px auto;
+}
+
+.valeurs_title, .steps_title, .contact_title {
+  margin-bottom: 60px;
+}
+
+.valeurs {
+  font-family: CenturyGothic_Bold;
+}
+
+.steps_number {
+  font-family: CenturyGothic_Bold;
+  color: #168AAD;
+  font-size: 80px;
+}
+
+.steps {
+  text-align: left;
+  margin: auto;
+}
+
+.steps_row {
+  flex-wrap: nowrap !important;
+}
+
+.steps_row p {
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+.shadow_title {
+  font-family: CenturyGothic_Bold;
+  text-shadow: 3px 3px #168AAD;
+}
+
+.contact_container {
+  text-align: center;
+}
+
+.contact_container h2 {
+  font-family: CenturyGothic_Bold;
+  color: #168AAD;
+  font-size: 25px;
+}
+
+.contact_container p {
+  font-size: 22px;
+  margin: 0 auto;
+}
+
+.contact_name {
+  font-family: CenturyGothic_Bold;
+  margin-top: 40px !important;
+}
+
+.image_container {
+  height : 120px
+}
+
+.valeurs_container p {
+  font-size: 16px;
+}
