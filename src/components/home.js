@@ -92,7 +92,7 @@ class Home extends Component {
 
                 <Container className="contact_container">
                     <h1 className="contact_title">Nous <span className="shadow_title">contacter</span></h1>    
-                    <h2>Toujours dans notre démarche d'éco-responsabilité, nous vous recommandons de privilégier le contact par téléphone</h2>
+                    <h2>Toujours dans notre démarche d'éco-responsabilité, nous vous recommandons de privilégier le contact par téléphone ou le chatbot</h2>
                     <p className="contact_name">Greened</p>
                     <p><Telephone/> 09.00.00.00.00</p>
                     <p><GeoAlt /> 41 rue de la paix 75009 Paris</p>
